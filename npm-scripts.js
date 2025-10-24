@@ -30,6 +30,13 @@ switch (task)
     break;
   }
 
+  case 'prepare':
+  {
+    execute('gulp');
+
+    break;
+  }
+
   case 'release':
   {
     execute('gulp');

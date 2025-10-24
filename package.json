@@ -57,6 +57,7 @@
     "lint": "node npm-scripts.js lint",
     "test": "node npm-scripts.js test",
     "prepublish": "node npm-scripts.js prepublish",
-    "release": "node npm-scripts.js release"
+    "release": "node npm-scripts.js release",
+    "prepare": "node npm-scripts.js prepare"
   }
 }
