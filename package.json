@@ -27,6 +27,7 @@
     "url": "https://github.com/versatica/JsSIP/issues"
   },
   "files": [
+    "lib",
     "lib-es5"
   ],
   "dependencies": {
