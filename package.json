@@ -1,12 +1,13 @@
 {
-  "name": "jssip",
+  "name": "jssip-subscribe-fork",
   "title": "JsSIP",
-  "description": "the Javascript SIP library",
+  "description": "Fork of JsSIP with subscribe support - courtesy of orgads on github",
   "version": "3.10.1",
   "homepage": "https://jssip.net",
   "contributors": [
     "José Luis Millán <jmillan@aliax.net> (https://github.com/jmillan)",
     "Iñaki Baz Castillo <ibc@aliax.net> (https://inakibaz.me)"
+    "Subscribe support - orgads <orgads@gmail.com> (https://github.com/orgads)"
   ],
   "types": "lib/JsSIP.d.ts",
   "main": "lib-es5/JsSIP.js",
@@ -16,15 +17,16 @@
     "webrtc",
     "node",
     "browser",
-    "library"
+    "library",
+    "unofficial"
   ],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/versatica/JsSIP.git"
+    "url": "https://github.com/mykenzierogers-hub/JsSIP.git"
   },
   "bugs": {
-    "url": "https://github.com/versatica/JsSIP/issues"
+    "url": "https://github.com/mykenzierogers-hub/JsSIP.git/issues"
   },
   "dependencies": {
     "@types/events": "^3.0.0",

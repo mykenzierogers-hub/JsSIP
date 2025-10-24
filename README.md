@@ -1,3 +1,8 @@
+# UNOFFICIAL BUILD/FORK
+All credit goes to https://github.com/orgads and the team at https://github.com/versatica/JsSIP
+
+
+
 <p align="center"><a href="https://jssip.net"><img src="https://jssip.net/images/jssip-banner-new.png"/></a></p>
 
 [![Build Status](https://api.travis-ci.com/versatica/JsSIP.png)](https://travis-ci.com/versatica/JsSIP)
